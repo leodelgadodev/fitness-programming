@@ -44,3 +44,10 @@ const main = () => {
 }
 
 main();
+
+module.exports = {
+    for_of,
+    for_aSecas,
+    for_in,
+    array_foreach
+}

@@ -1,0 +1,30 @@
+{
+    "name": "IVI",
+    "code": "IVI",
+    "students": [
+        {
+            "name": "Peron",
+            "code": "12347",
+            "age": 21,
+            "grade": 9
+        },
+        {
+            "name": "Perez",
+            "code": "12348",
+            "age": 22,
+            "grade": 10
+        },
+        {
+            "name": "Perez",
+            "code": "12349",
+            "age": 23,
+            "grade": 11
+        },
+        {
+            "name": "Perez",
+            "code": "12350",
+            "age": 24,
+            "grade": 12
+        }
+    ]
+}
